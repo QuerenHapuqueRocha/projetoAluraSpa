@@ -1,0 +1,37 @@
+@import '../abstract/variaveis';
+
+#cuidados {
+    text-align: center;
+    img {
+        box-shadow: 1px 1px 8px 1px grey;
+        border-radius: 80px;
+        margin-top: 30px;
+        opacity: 0.7;
+    }
+    h3 {
+        margin-top: 30px;
+        font-size: $tamanho-do-texto/2;
+        font-weight: 300;
+        color: $cor-primaria;
+    }
+    h4 {
+        font-size: $tamanho-do-texto/3;
+        text-decoration: underline 3px $cor-terciaria;
+        line-height: 50px;
+    }
+    p {
+        align-items: center;
+        line-height: 30px;
+        font-size: 20px;
+        font-weight: 300;
+        border: 1px solid $cor-primaria;
+        border-radius: 80px;
+        height: 40px;
+        
+
+        
+
+       
+    }
+
+    }

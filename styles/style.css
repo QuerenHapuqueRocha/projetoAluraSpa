@@ -140,4 +140,49 @@ nav ul li a:hover {
   color: #EC7272;
   background-color: #C3FF99;
   border-color: #F7A76C;
+}
+
+#cuidados {
+  text-align: center;
+}
+#cuidados img {
+  box-shadow: 1px 1px 8px 1px grey;
+  border-radius: 80px;
+  margin-top: 30px;
+  opacity: 0.7;
+}
+#cuidados h3 {
+  margin-top: 30px;
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #F7A76C;
+}
+#cuidados h4 {
+  font-size: 1rem;
+  -webkit-text-decoration: underline 3px #C3FF99;
+          text-decoration: underline 3px #C3FF99;
+  line-height: 50px;
+}
+#cuidados p {
+  align-items: center;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 300;
+  border: 1px solid #F7A76C;
+  border-radius: 80px;
+  height: 40px;
+}
+
+footer {
+  background-color: #C3FF99;
+  opacity: 0.7;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  height: 40px;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+footer i {
+  padding: 5px;
 }/*# sourceMappingURL=style.css.map */
