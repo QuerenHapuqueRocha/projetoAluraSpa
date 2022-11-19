@@ -1,17 +1,9 @@
-# Nome do meu projeto
+# Projeto Alura Spa
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de aplicação de SASS/SCSS, desenvolvido com o curso SASS: CSS sintaticamente espetacular através da plataforma da Alura com algumas alterações autorais.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Você pode visualizar o projeto em:
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/95857175/202863404-0adc8dd1-d0bf-4f0b-882f-c5674ad07085.png#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
