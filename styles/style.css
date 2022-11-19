@@ -13,4 +13,32 @@ nav ul li a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
+  color: #F7A76C;
+}
+nav ul li a:hover {
+  border-bottom: 2px solid #E0D98C;
+}
+
+.banner {
+  background: url(../imagens/banner.jpeg) 27% center no-repeat;
+  min-height: 350px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+}
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #C3FF99;
+  opacity: 0.9;
+  border-radius: 60px;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  color: #F7A76C;
+}
+.banner .inner-banner h2 {
+  font-size: 1.5rem;
+  color: #EC7272;
 }/*# sourceMappingURL=style.css.map */
