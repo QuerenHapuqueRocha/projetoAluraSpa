@@ -1,0 +1,48 @@
+@import '../abstract/variaveis';
+
+#servicos {
+    margin: 80px;
+    h4 {
+        font-size: $tamanho-do-texto/2.5;
+        color: $cor-primaria;
+        text-transform: uppercase;
+        font-weight: 300;
+        text-align: center;
+        margin: 1rem;
+    }
+
+    h3 {
+        font-size: $tamanho-do-texto/1.2;
+        text-align: center;
+        margin-bottom: 80px;
+        font-weight: 300;
+
+    }
+    .cards {
+        display: flex;
+        justify-content: space-evenly;
+        .card {
+            width: 360px;
+            text-align: center;
+            h5 {
+                font-size: $tamanho-do-texto/1.5;
+                font-weight: 300;
+                margin-top: 25px;
+                margin-bottom: 20px;
+                color: $cor-primaria;
+            }
+            p {
+                font-size: $tamanho-do-texto/3;
+                font-weight: 300;
+                line-height: 1.25rem;  
+            }
+            .img-container {
+                padding-bottom: 2px;
+                border-bottom: 4px solid $cor-terciaria;
+                img {
+                    max-width: 100%;
+                }
+            }
+        }
+    }
+}
